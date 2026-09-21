@@ -30,6 +30,12 @@ coverage
 node_modules/
 jspm_packages/
 
+# Lock files
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+bun.lockb
+
 # TypeScript cache
 *.tsbuildinfo
 
